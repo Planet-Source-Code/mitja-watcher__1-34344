@@ -1,0 +1,2 @@
+0.0.3
+c:\projects\nadzor\grabber\test\writer001.exe
